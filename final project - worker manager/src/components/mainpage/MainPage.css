@@ -1,0 +1,36 @@
+.container {
+  margin-top: 20px;
+}
+
+.list-group {
+  padding: 0;
+}
+
+.list-group-item {
+  margin-bottom: 1rem;
+  border: none;
+}
+
+.list-group-item .card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 0;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  background-color: #fff;
+}
+
+.list-group-item .card img {
+  max-width: 100px;
+  margin-right: 1rem;
+}
+
+.list-group-item .card .card-body {
+  flex: 1;
+}
+
+.search-bar-container {
+  margin-bottom: 20px;
+}

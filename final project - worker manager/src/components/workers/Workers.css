@@ -1,0 +1,21 @@
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: solid lightgray;
+  border-radius: 5%;
+  background-color: lightgray;
+  margin-bottom: 1%;
+}
+
+.list-group-item h5 {
+  margin: 0;
+}
+
+.list-group-item p {
+  margin: 0;
+}
+
+.btn-outline-danger {
+  border-radius: 3px;
+}

@@ -1,0 +1,19 @@
+.img {
+ height: 100%;
+ border-radius: 20%;
+
+}
+.card-body  {
+  flex: auto;
+  border-radius: 20%;
+  width: 50%;
+}
+.tag{
+  border-radius: 5%;
+  padding: 1%;
+}
+.img-bg{
+  border-radius: 5%;
+  padding: 2%;
+  width: 50%;
+}
